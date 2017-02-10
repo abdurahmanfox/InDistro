@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="white">#ffffff</color>
-    <color name="black">#000000</color>
+
+    <!--Facebook-->
     <color name="blue">#3b5998</color>
     <color name="blue_mid">#8b9dc3</color>
     <color name="blue_low">#dfe3ee</color>
     <color name="vanilla">#f7f7f7</color>
+    <color name="white">#ffffff</color>
 
-    <color name="colorPrimary">@color/blue</color>
+    <!--Goldie-->
+    <color name="gold">#ffd700</color>
+    <color name="navy">#000080</color>
+    <color name="black">#000000</color>
+    <color name="grey">#c0c0c0</color>
+    <color name="maroon">#8a0707</color>
+
+    <!--AppTheme-->
+    <color name="colorPrimary">@color/navy</color>
     <color name="colorPrimaryDark">@color/black</color>
-    <color name="colorAccent">@color/vanilla</color>
+    <color name="colorAccent">@color/gold</color>
 </resources>
